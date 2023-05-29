@@ -15,8 +15,8 @@ cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/api/auth.
 cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/layout.tsx /home/DEEPROUTE/zhichenghe/project/chatgpt/web2/myapp2/app/layout.tsx
 
 
-cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/en.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/locales/en.ts
-cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/cn.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/locales/cn.ts
+# cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/en.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/locales/en.ts
+# cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/cn.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/locales/cn.ts
 cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/components/chat.tsx /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/components/chat.tsx
 cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/components/sidebar.tsx /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/components/sidebar.tsx
 
@@ -48,3 +48,11 @@ cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/component
 
 cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/api/auth.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/test/ChatGPT-Next-Web/app/api/auth.ts
 cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/layout.tsx /home/DEEPROUTE/zhichenghe/project/chatgpt/test/ChatGPT-Next-Web/app/layout.tsx
+
+
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web1/myapp1/app/locales/index.ts
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web2/myapp2/app/locales/index.ts
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web3/myapp3/app/locales/index.ts
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web4/myapp4/app/locales/index.ts
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/web5/myapp5/app/locales/index.ts
+cp /home/DEEPROUTE/zhichenghe/project/chatgpt/web/ChatGPT-Next-Web/app/locales/index.ts /home/DEEPROUTE/zhichenghe/project/chatgpt/test/ChatGPT-Next-Web/app/locales/index.ts
