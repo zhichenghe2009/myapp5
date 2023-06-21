@@ -157,6 +157,16 @@ export function SideBar(props: { className?: string }) {
       </div>
 
       <div className={styles["sidebar-bar-button"]}>
+        <a href="https://prompt.chatgptvip.shop/" target="_blank">
+          <IconButton
+            icon={<GithubIcon />}
+            text='ChatGpt提示词工具'
+            shadow
+          />
+        </a>
+      </div>
+
+      <div className={styles["sidebar-bar-button"]}>
         <a href="https://painted-toucan-5e6.notion.site/ChatGpt-30cbb93b65504c90b3aac21b4e9968ea?pvs=4" target="_blank">
           <IconButton
             icon={<GithubIcon />}
