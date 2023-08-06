@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGpt</div>
         <div className={styles["sidebar-sub-title"]}>
-          添加微信longlielie 提供更多技术支持
+          添加微信rich001ard 提供更多技术支持
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
@@ -157,7 +157,7 @@ export function SideBar(props: { className?: string }) {
       </div>
 
       <div className={styles["sidebar-bar-button"]}>
-        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/QNzjwl2mdifCGDkz2gBcegXln0b" target="_blank">
+        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/MoIyw14TJiPZHOkZDulcpKy5nRg" target="_blank">
           <IconButton
             icon={<GithubIcon />}
             text='AI知识库访问(持续更新）'
@@ -167,7 +167,7 @@ export function SideBar(props: { className?: string }) {
       </div>
 
       <div className={styles["sidebar-bar-button"]}>
-        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/OA0XwHFoVieVH4kXfsfcGEM2n5b" target="_blank">
+        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/Kcb8wXHjYi5g6GkYcUKcAE9XnCg" target="_blank">
           <IconButton
             icon={<GithubIcon />}
             text='AI工具保姆级指导书(持续更新）'
@@ -187,7 +187,7 @@ export function SideBar(props: { className?: string }) {
       </div>
 
       <div className={styles["sidebar-bar-button"]}>
-        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/Cq8ywC9t6ib59SkLYkjcUNw9ntd" target="_blank">
+        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/Hwc4wGOPiio6a3kbumIcNKS2n9c" target="_blank">
           <IconButton
             icon={<GithubIcon />}
             text='企业独立ChatGpt站点'
@@ -197,7 +197,7 @@ export function SideBar(props: { className?: string }) {
       </div>
 
       <div className={styles["sidebar-bar-button"]}>
-        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/SYVUwUhAViLxFRkuSQKcvQx9nQe" target="_blank">
+        <a href="https://test-cr534q4ghsv6.feishu.cn/wiki/AkCiwWMsSiDRLvkfTyecEUWAnTg" target="_blank">
           <IconButton
             icon={<GithubIcon />}
             text='500元搭建企业官网或外贸独立站'
